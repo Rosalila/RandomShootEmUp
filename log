@@ -1,0 +1,23 @@
+Success! SDL initialized.
+Initializing SLD sound engine.
+Success!
+assets/misc/loading_screen.png loaded
+assets/menu/startscreen.png loaded
+assets/menu/button1.png loaded
+assets/menu/button1.png loaded
+Playing music: assets/menu/audio/music.ogg
+assets/misc/loading_screen.png loaded
+assets/menu/selection_bg.png loaded
+Creating character selection menu
+assets/chars/Char1/portrait.png loaded
+assets/chars/Char1/preview.png loaded
+assets/chars/Char2/portrait.png loaded
+assets/chars/Char2/preview.png loaded
+assets/menu/selected_char_p1.png loaded
+assets/menu/locked_char_p1.png loaded
+assets/menu/no_portrait.png loaded
+Creating character selection menu
+assets/stages/Stage1/images/preview.png loaded
+assets/stages/Stage2/images/preview.png loaded
+assets/stages/Stage3/images/preview.png loaded
+Key pressed but not supported:1073742050

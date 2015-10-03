@@ -1,27 +1,27 @@
 <MainFile>
 	<LifeBar color_g="128" rect_offset_x="70" rect_offset_y="36" rect_width="373" rect_height="32"/>
 	<SlowBar rect_offset_x="0" rect_offset_y="0" rect_width="373" rect_height="10" x="70" y="55" color_b="128" color_g="64" cooldown_color_r="50" cooldown_color_g="50" cooldown_color_b="50" cooldown_color_a="255"/>
-	<Attributes slow="500" velocity="6" animation_velocity="4" hp="500" initial_x="100" initial_y="500"/>
-	<Hitbox x="30" y="-30" width="20" height="20" angle="0"/>
+	<Attributes slow="500" velocity="6" animation_velocity="4" hp="200" initial_x="100" initial_y="500"/>
+	<Hitbox x="20" y="-10" width="20" height="20" angle="0"/>
 	<Sprites orientation="idle">
-		<Sprite path="nuevas/1iddle.png"/>
-		<Sprite path="nuevas/2iddle.png"/>
+		<Sprite path="nuevas/idle1.png"/>
+		<Sprite path="nuevas/idle2.png"/>
 	</Sprites>
 	<Sprites orientation="up">
-		<Sprite path="nuevas/1up.png"/>
-		<Sprite path="nuevas/2up.png"/>
+		<Sprite path="nuevas/up1.png"/>
+		<Sprite path="nuevas/up2.png"/>
 	</Sprites>
 	<Sprites orientation="down">
-		<Sprite path="nuevas/1down.png"/>
-		<Sprite path="nuevas/2down.png"/>
+		<Sprite path="nuevas/down1.png"/>
+		<Sprite path="nuevas/down2.png"/>
 	</Sprites>
 	<Sprites orientation="left">
-		<Sprite path="nuevas/1back.png"/>
-		<Sprite path="nuevas/2back.png"/>
+		<Sprite path="nuevas/left1.png"/>
+		<Sprite path="nuevas/left2.png"/>
 	</Sprites>
 	<Sprites orientation="right">
-		<Sprite path="nuevas/1forward.png"/>
-		<Sprite path="nuevas/2forward.png"/>
+		<Sprite path="nuevas/right1.png"/>
+		<Sprite path="nuevas/right2.png"/>
 	</Sprites>
 	<Sprites orientation="destroyed">
 		<Sprite path="death/1.png"/>

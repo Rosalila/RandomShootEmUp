@@ -1,5 +1,21 @@
 <ModifiersFile>
-	<Modifier at="10" pattern_type="demo pattern" velocity="5" angle="90"/>
-	<Modifier at="110" angle="-90"/>
-	<Modifier at="209" iterator="10"/>
+	<Modifier at="0" velocity="20" angle="180"/>
+	<Modifier at="25" velocity="1" angle_change="5"/>
+<!--	<Modifier at="30" pattern_type="C"/> -->
+
+	<Modifier at="30" pattern_type="A1"/>
+	<Modifier at="130" pattern_type="A2"/>
+	<Modifier at="330" pattern_type="A1"/>
+	<Modifier at="430" pattern_type="A2"/>
+	<Modifier at="630" pattern_type="A1"/>
+	<Modifier at="730" pattern_type="A2"/>
+	<Modifier at="930" pattern_type="A1"/>
+	<Modifier at="1030" pattern_type="A2"/>
+	<Modifier at="1230" pattern_type=""/>
+	<Modifier at="1330" pattern_type="B"/>
+	<Modifier at="2300" pattern_type=""/>
+	<Modifier at="2400" pattern_type="C"/>
+	<Modifier at="3300" pattern_type=""/>
+	<Modifier at="3400" pattern_type="D"/>
+<!--  -->
 </ModifiersFile>

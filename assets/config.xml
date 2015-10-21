@@ -9,9 +9,8 @@
 		<char name="Char2"/>
 	</Chars>
 	<Stages>
-		<stage name="Stage1"/>
 		<stage name="Stage2"/>
-		<stage name="Stage3"/>
+		<stage name="Stage1"/>
 	</Stages>
 	<YouLose x="500" y="200" animation_velocity="5">
 		<sprite path="misc/you lose/1.png"/>

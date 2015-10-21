@@ -1,8 +1,6 @@
 <ModifiersFile>
 	<Modifier at="0" velocity="20" angle="180"/>
 	<Modifier at="25" velocity="1" angle_change="5"/>
-<!--	<Modifier at="30" pattern_type="C"/> -->
-
 	<Modifier at="30" pattern_type="A1"/>
 	<Modifier at="130" pattern_type="A2"/>
 	<Modifier at="330" pattern_type="A1"/>

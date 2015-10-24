@@ -1,31 +1,31 @@
 <PatternsFile>
 	<Type name="A">
     <Repeat amount="5" angle="1">
-      <Pattern bullet="basic bullet" velocity="20" aim_player="yes" angle="-13" startup="10" cooldown="20" duration="200" offset_x="-150" offset_y="205"/>
+      <Pattern bullet="yellow" velocity="20" aim_player="yes" angle="-13" startup="10" cooldown="20" duration="200" offset_x="-150" offset_y="205"/>
     </Repeat>
     <Repeat amount="5" angle="1">
-      <Pattern bullet="basic bullet" velocity="10" aim_player="yes" angle="-3" startup="5" cooldown="20" duration="200" offset_x="-150" offset_y="205"/>
+      <Pattern bullet="yellow" velocity="10" aim_player="yes" angle="-3" startup="5" cooldown="20" duration="200" offset_x="-150" offset_y="205"/>
     </Repeat>
     <Repeat amount="5" angle="1">
-      <Pattern bullet="basic bullet" velocity="20" aim_player="yes" angle="7" startup="10" cooldown="20" duration="200" offset_x="-150" offset_y="205"/>
+      <Pattern bullet="yellow" velocity="20" aim_player="yes" angle="7" startup="10" cooldown="20" duration="200" offset_x="-150" offset_y="205"/>
     </Repeat>
 
     <Repeat amount="5" angle="1">
-      <Pattern bullet="basic bullet" velocity="20" aim_player="yes" angle="-13" startup="10" cooldown="20" duration="200" offset_x="-150" offset_y="-205"/>
+      <Pattern bullet="yellow" velocity="20" aim_player="yes" angle="-13" startup="10" cooldown="20" duration="200" offset_x="-150" offset_y="-205"/>
     </Repeat>
     <Repeat amount="5" angle="1">
-      <Pattern bullet="basic bullet" velocity="10" aim_player="yes" angle="-3" startup="5" cooldown="20" duration="200" offset_x="-150" offset_y="-205"/>
+      <Pattern bullet="yellow" velocity="10" aim_player="yes" angle="-3" startup="5" cooldown="20" duration="200" offset_x="-150" offset_y="-205"/>
     </Repeat>
     <Repeat amount="5" angle="1">
-      <Pattern bullet="basic bullet" velocity="20" aim_player="yes" angle="7" startup="10" cooldown="20" duration="200" offset_x="-150" offset_y="-205"/>
+      <Pattern bullet="yellow" velocity="20" aim_player="yes" angle="7" startup="10" cooldown="20" duration="200" offset_x="-150" offset_y="-205"/>
     </Repeat>
   </Type>
 
 	<Type name="B">
-    <Pattern bullet="basic bullet" velocity="15" angle="170" cooldown="15" offset_x="-130" offset_y="205">
+    <Pattern bullet="yellow" velocity="15" angle="170" cooldown="15" offset_x="-130" offset_y="205">
       <Modifier at="62" angle="0" aim_player="yes"/>
     </Pattern>
-    <Pattern bullet="basic bullet" velocity="15" angle="-170" cooldown="15" offset_x="-130" offset_y="-205">
+    <Pattern bullet="yellow" velocity="15" angle="-170" cooldown="15" offset_x="-130" offset_y="-205">
       <Modifier at="62" angle="0" aim_player="yes"/>
     </Pattern>
     <!--<Pattern bullet="basic bullet" velocity="10" cooldown="20" angle="170" offset_x="-150" offset_y="105"/>-->
@@ -34,53 +34,53 @@
       
     </Repeat>
     <Repeat amount="4" angle="90">
-      <Pattern bullet="basic bullet" velocity="1" cooldown="20" duration="10" offset_x="-150" offset_y="-105"/>
+      <Pattern bullet="yellow" velocity="1" cooldown="20" duration="10" offset_x="-150" offset_y="-105"/>
     </Repeat>
     <Repeat amount="4" angle="90">
-      <Pattern bullet="basic bullet" velocity="1" cooldown="20" duration="10" offset_x="-130" offset_y="-120"/>
+      <Pattern bullet="yellow" velocity="1" cooldown="20" duration="10" offset_x="-130" offset_y="-120"/>
     </Repeat>
     <Repeat amount="4" angle="90">
-      <Pattern bullet="basic bullet" velocity="1" cooldown="20" duration="10" offset_x="-150" offset_y="-205"/>
+      <Pattern bullet="yellow" velocity="1" cooldown="20" duration="10" offset_x="-150" offset_y="-205"/>
     </Repeat>
     <Repeat amount="4" angle="90">
-      <Pattern bullet="basic bullet" velocity="1" cooldown="20" duration="10" offset_x="-130" offset_y="-190"/>
+      <Pattern bullet="yellow" velocity="1" cooldown="20" duration="10" offset_x="-130" offset_y="-190"/>
     </Repeat>
     <Repeat amount="4" angle="90">
-      <Pattern bullet="basic bullet" velocity="1" cooldown="20" duration="10" offset_x="-150" offset_y="205"/>
+      <Pattern bullet="yellow" velocity="1" cooldown="20" duration="10" offset_x="-150" offset_y="205"/>
     </Repeat>
     <Repeat amount="4" angle="90">
-      <Pattern bullet="basic bullet" velocity="1" cooldown="20" duration="10" offset_x="-130" offset_y="190"/>
+      <Pattern bullet="yellow" velocity="1" cooldown="20" duration="10" offset_x="-130" offset_y="190"/>
     </Repeat>
   </Type>
 
 	<Type name="C">
-    <Pattern bullet="basic bullet" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-150" offset_y="105">
+    <Pattern bullet="yellow" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-150" offset_y="105">
       <Modifier at="50" angle_change="0"/>
     </Pattern>
-    <Pattern bullet="basic bullet" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-130" offset_y="120">
+    <Pattern bullet="yellow" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-130" offset_y="120">
       <Modifier at="50" angle_change="0"/>
     </Pattern>
-    <Pattern bullet="basic bullet" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-150" offset_y="-105">
+    <Pattern bullet="yellow" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-150" offset_y="-105">
       <Modifier at="50" angle_change="0"/>
     </Pattern>
-    <Pattern bullet="basic bullet" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-130" offset_y="-120">
-      <Modifier at="50" angle_change="0"/>
-    </Pattern>
-
-    <Pattern bullet="basic bullet" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-150" offset_y="-205">
-      <Modifier at="50" angle_change="0"/>
-    </Pattern>
-    <Pattern bullet="basic bullet" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-130" offset_y="-190">
-      <Modifier at="50" angle_change="0"/>
-    </Pattern>
-    <Pattern bullet="basic bullet" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-150" offset_y="205">
-      <Modifier at="50" angle_change="0"/>
-    </Pattern>
-    <Pattern bullet="basic bullet" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-130" offset_y="190">
+    <Pattern bullet="yellow" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-130" offset_y="-120">
       <Modifier at="50" angle_change="0"/>
     </Pattern>
 
-    <Pattern bullet="basic bullet" velocity="10" angle="-55" aim_player="yes" angle_change="5" cooldown="20" offset_x="230" offset_y="35">
+    <Pattern bullet="yellow" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-150" offset_y="-205">
+      <Modifier at="50" angle_change="0"/>
+    </Pattern>
+    <Pattern bullet="yellow" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-130" offset_y="-190">
+      <Modifier at="50" angle_change="0"/>
+    </Pattern>
+    <Pattern bullet="yellow" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-150" offset_y="205">
+      <Modifier at="50" angle_change="0"/>
+    </Pattern>
+    <Pattern bullet="yellow" velocity="10" random_angle="360" angle_change="5" cooldown="20" offset_x="-130" offset_y="190">
+      <Modifier at="50" angle_change="0"/>
+    </Pattern>
+
+    <Pattern bullet="red" velocity="10" angle="-55" aim_player="yes" angle_change="5" cooldown="20" offset_x="230" offset_y="35">
       <Modifier at="20" angle_change="-5"/>
       <Modifier at="40" angle_change="5"/>
       <Modifier at="60" angle_change="-5"/>
@@ -94,7 +94,7 @@
       <Modifier at="200" angle_change="5"/>
     </Pattern>
 
-    <Pattern bullet="basic bullet" velocity="10" angle="55" aim_player="yes" angle_change="-5" cooldown="20" offset_x="230" offset_y="-35">
+    <Pattern bullet="red" velocity="10" angle="55" aim_player="yes" angle_change="-5" cooldown="20" offset_x="230" offset_y="-35">
       <Modifier at="20" angle_change="5"/>
       <Modifier at="40" angle_change="-5"/>
       <Modifier at="60" angle_change="5"/>
@@ -110,24 +110,24 @@
 	</Type>
 
 	<Type name="D">
-    <Pattern bullet="basic bullet" velocity="7" aim_player="yes" cooldown="20" duration="500" offset_x="230" offset_y="35">
+    <Pattern bullet="red" velocity="7" aim_player="yes" cooldown="20" duration="500" offset_x="230" offset_y="35">
       <Modifier at="50" homing="yes"/>
       <Modifier at="150" homing="no"/>
     </Pattern>
-    <Pattern bullet="basic bullet" velocity="7" aim_player="yes" cooldown="20" duration="500" offset_x="230" offset_y="-35">
+    <Pattern bullet="red" velocity="7" aim_player="yes" cooldown="20" duration="500" offset_x="230" offset_y="-35">
       <Modifier at="50" homing="yes"/>
       <Modifier at="150" homing="no"/>
     </Pattern>
 
-    <Pattern bullet="basic bullet" velocity="6" random_angle="360" cooldown="5" offset_x="-150" offset_y="105"/>
-    <Pattern bullet="basic bullet" velocity="4" random_angle="360" cooldown="5" offset_x="-130" offset_y="120"/>
-    <Pattern bullet="basic bullet" velocity="4" random_angle="360" cooldown="5" offset_x="-150" offset_y="-105"/>
-    <Pattern bullet="basic bullet" velocity="6" random_angle="360" cooldown="5" offset_x="-130" offset_y="-120"/>
+    <Pattern bullet="yellow" velocity="6" random_angle="360" cooldown="5" offset_x="-150" offset_y="105"/>
+    <Pattern bullet="yellow" velocity="4" random_angle="360" cooldown="5" offset_x="-130" offset_y="120"/>
+    <Pattern bullet="yellow" velocity="4" random_angle="360" cooldown="5" offset_x="-150" offset_y="-105"/>
+    <Pattern bullet="yellow" velocity="6" random_angle="360" cooldown="5" offset_x="-130" offset_y="-120"/>
 
-    <Pattern bullet="basic bullet" velocity="6" random_angle="360" cooldown="5" offset_x="-150" offset_y="-205"/>
-    <Pattern bullet="basic bullet" velocity="4" random_angle="360" cooldown="5" offset_x="-130" offset_y="-190"/>
-    <Pattern bullet="basic bullet" velocity="4" random_angle="360" cooldown="5" offset_x="-150" offset_y="205"/>
-    <Pattern bullet="basic bullet" velocity="6" random_angle="360" cooldown="5" offset_x="-130" offset_y="190"/>
+    <Pattern bullet="yellow" velocity="6" random_angle="360" cooldown="5" offset_x="-150" offset_y="-205"/>
+    <Pattern bullet="yellow" velocity="4" random_angle="360" cooldown="5" offset_x="-130" offset_y="-190"/>
+    <Pattern bullet="yellow" velocity="4" random_angle="360" cooldown="5" offset_x="-150" offset_y="205"/>
+    <Pattern bullet="yellow" velocity="6" random_angle="360" cooldown="5" offset_x="-130" offset_y="190"/>
   </Type>
 
 	<Type name="demo pattern">

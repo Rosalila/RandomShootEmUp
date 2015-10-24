@@ -1,109 +1,109 @@
 <PatternsFile>
 	<Type name="A1">
     <Repeat amount="3" acceleration="1">
-      <Pattern bullet="basic bullet" velocity="10" acceleration="1" a_frequency="10" cooldown="9999" duration="300" aim_player="yes" angle="-10" random_angle="20" offset_x="37">
+      <Pattern bullet="bullet_green" velocity="10" acceleration="1" a_frequency="10" cooldown="9999" duration="300" aim_player="yes" angle="-10" random_angle="20" offset_x="37">
         <Modifier at="50" velocity="0" acceleration="0"/>
       </Pattern>
     </Repeat>
     <Repeat amount="3" acceleration="1">
-      <Pattern bullet="basic bullet" velocity="10" acceleration="1" a_frequency="10" cooldown="9999" duration="300" aim_player="yes" angle="-20" random_angle="40" offset_x="37">
+      <Pattern bullet="bullet_green" velocity="10" acceleration="1" a_frequency="10" cooldown="9999" duration="300" aim_player="yes" angle="-20" random_angle="40" offset_x="37">
         <Modifier at="50" velocity="0" acceleration="0"/>
       </Pattern>
     </Repeat>
     <Repeat amount="3" acceleration="1">
-      <Pattern bullet="basic bullet" velocity="10" acceleration="1" a_frequency="10" cooldown="9999" duration="300" aim_player="yes" angle="-20" random_angle="40" offset_x="37">
+      <Pattern bullet="bullet_green" velocity="10" acceleration="1" a_frequency="10" cooldown="9999" duration="300" aim_player="yes" angle="-20" random_angle="40" offset_x="37">
         <Modifier at="50" velocity="0" acceleration="0"/>
       </Pattern>
     </Repeat>
     <Repeat amount="3" acceleration="1">
-      <Pattern bullet="basic bullet" velocity="10" acceleration="1" a_frequency="10" cooldown="9999" duration="300" aim_player="yes" angle="-20" random_angle="40" offset_x="37">
+      <Pattern bullet="bullet_green" velocity="10" acceleration="1" a_frequency="10" cooldown="9999" duration="300" aim_player="yes" angle="-20" random_angle="40" offset_x="37">
         <Modifier at="50" velocity="0" acceleration="0"/>
       </Pattern>
     </Repeat>
 	</Type>
 	<Type name="A2">
     <Repeat amount="9" angle="-10" startup="10">
-      <Pattern bullet="basic bullet" velocity="25" cooldown="5" duration="300" angle="45" offset_x="37">
+      <Pattern bullet="bullet_green" velocity="25" cooldown="5" duration="300" angle="45" offset_x="37">
         <Modifier at="10" angle="0" aim_player="yes"/>
       </Pattern>
     </Repeat>
 	</Type>
 	<Type name="B">
     <Repeat amount="5" acceleration="1">
-      <Pattern bullet="basic bullet" velocity="1" a_frequency="10" cooldown="9999999" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="110">
+      <Pattern bullet="bullet_red" velocity="1" a_frequency="10" cooldown="9999999" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="110">
         <Modifier at="100" acceleration="-2"/>
       </Pattern>
-      <Pattern bullet="basic bullet" velocity="1" a_frequency="10" cooldown="9999999" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="-110">
-        <Modifier at="100" acceleration="-2"/>
-      </Pattern>
-    </Repeat>
-    <Repeat amount="5" acceleration="1">
-      <Pattern bullet="basic bullet" velocity="1" a_frequency="10" cooldown="9999999" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="110">
-        <Modifier at="100" acceleration="-2"/>
-      </Pattern>
-      <Pattern bullet="basic bullet" velocity="1" a_frequency="10" cooldown="9999999" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="-110">
+      <Pattern bullet="bullet_red" velocity="1" a_frequency="10" cooldown="9999999" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="-110">
         <Modifier at="100" acceleration="-2"/>
       </Pattern>
     </Repeat>
     <Repeat amount="5" acceleration="1">
-      <Pattern bullet="basic bullet" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="110">
+      <Pattern bullet="bullet_red" velocity="1" a_frequency="10" cooldown="9999999" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="110">
         <Modifier at="100" acceleration="-2"/>
       </Pattern>
-      <Pattern bullet="basic bullet" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="-110">
-        <Modifier at="100" acceleration="-2"/>
-      </Pattern>
-    </Repeat>
-    <Repeat amount="5" acceleration="1">
-      <Pattern bullet="basic bullet" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="110">
-        <Modifier at="100" acceleration="-2"/>
-      </Pattern>
-      <Pattern bullet="basic bullet" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="-110">
+      <Pattern bullet="bullet_red" velocity="1" a_frequency="10" cooldown="9999999" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="-110">
         <Modifier at="100" acceleration="-2"/>
       </Pattern>
     </Repeat>
     <Repeat amount="5" acceleration="1">
-      <Pattern bullet="basic bullet" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="110">
+      <Pattern bullet="bullet_red" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="110">
         <Modifier at="100" acceleration="-2"/>
       </Pattern>
-      <Pattern bullet="basic bullet" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="-110">
+      <Pattern bullet="bullet_red" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="-110">
+        <Modifier at="100" acceleration="-2"/>
+      </Pattern>
+    </Repeat>
+    <Repeat amount="5" acceleration="1">
+      <Pattern bullet="bullet_red" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="110">
+        <Modifier at="100" acceleration="-2"/>
+      </Pattern>
+      <Pattern bullet="bullet_red" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="-110">
+        <Modifier at="100" acceleration="-2"/>
+      </Pattern>
+    </Repeat>
+    <Repeat amount="5" acceleration="1">
+      <Pattern bullet="bullet_red" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="110">
+        <Modifier at="100" acceleration="-2"/>
+      </Pattern>
+      <Pattern bullet="bullet_red" velocity="1" a_frequency="10" cooldown="200" duration="1000" aim_player="yes" angle="-30" random_angle="60" offset_x="-150" offset_y="-110">
         <Modifier at="100" acceleration="-2"/>
       </Pattern>
     </Repeat>
 	</Type>
 	<Type name="C">
-    <Pattern bullet="basic bullet" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="75" offset_y="150">
+    <Pattern bullet="bullet_red_triangle" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="75" offset_y="150">
       <Modifier at="75" aim_player="no" angle_change="20"/>
-      <Modifier at="100" aim_player="yes" angle="0" angle_change="0"/>
+      <Modifier at="100" aim_player="yes" angle="0" angle_change="0" bullet="bullet_red_triangle_reverse"/>
     </Pattern>
-    <Pattern bullet="basic bullet" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="75" offset_y="-150">
+    <Pattern bullet="bullet_red_triangle" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="75" offset_y="-150">
       <Modifier at="75" aim_player="no" angle_change="-20"/>
-      <Modifier at="100" aim_player="yes" angle="0" angle_change="0"/>
+      <Modifier at="100" aim_player="yes" angle="0" angle_change="0" bullet="bullet_red_triangle_reverse"/>
     </Pattern>
 
-    <Pattern bullet="basic bullet" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="85" offset_y="165">
+    <Pattern bullet="bullet_red_triangle" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="85" offset_y="165">
       <Modifier at="75" aim_player="no" angle_change="20"/>
-      <Modifier at="100" aim_player="yes" angle="0" angle_change="0"/>
+      <Modifier at="100" aim_player="yes" angle="0" angle_change="0" bullet="bullet_red_triangle_reverse"/>
     </Pattern>
-    <Pattern bullet="basic bullet" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="85" offset_y="-165">
+    <Pattern bullet="bullet_red_triangle" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="85" offset_y="-165">
       <Modifier at="75" aim_player="no" angle_change="-20"/>
-      <Modifier at="100" aim_player="yes" angle="0" angle_change="0"/>
+      <Modifier at="100" aim_player="yes" angle="0" angle_change="0" bullet="bullet_red_triangle_reverse"/>
     </Pattern>
 
-    <Pattern bullet="basic bullet" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="95" offset_y="180">
+    <Pattern bullet="bullet_red_triangle" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="95" offset_y="180">
       <Modifier at="75" aim_player="no" angle_change="20"/>
-      <Modifier at="100" aim_player="yes" angle="0" angle_change="0"/>
+      <Modifier at="100" aim_player="yes" angle="0" angle_change="0" bullet="bullet_red_triangle_reverse"/>
     </Pattern>
-    <Pattern bullet="basic bullet" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="95" offset_y="-180">
+    <Pattern bullet="bullet_red_triangle" velocity="-10" max_velocity="20" acceleration="1" a_frequency="3" cooldown="20" angle="180" duration="500" offset_x="95" offset_y="-180">
       <Modifier at="75" aim_player="no" angle_change="-20"/>
-      <Modifier at="100" aim_player="yes" angle="0" angle_change="0"/>
+      <Modifier at="100" aim_player="yes" angle="0" angle_change="0" bullet="bullet_red_triangle_reverse"/>
     </Pattern>
 <!-- -->
 	</Type>
 	<Type name="D">
-    <Pattern bullet="basic bullet" velocity="10" cooldown="5" duration="150" aim_player="yes" angle="10" offset_x="210" offset_y="37"/>
-    <Pattern bullet="basic bullet" velocity="10" cooldown="5" duration="150" aim_player="yes" angle="-10" offset_x="210" offset_y="-37"/>
+    <Pattern bullet="bullet_yellow" velocity="10" cooldown="5" duration="150" aim_player="yes" angle="10" offset_x="210" offset_y="37"/>
+    <Pattern bullet="bullet_yellow" velocity="10" cooldown="5" duration="150" aim_player="yes" angle="-10" offset_x="210" offset_y="-37"/>
     <Repeat amount="10" startup="200" velocity="1">
-      <Pattern bullet="basic bullet" velocity="10" cooldown="5" duration="150" random_angle="360" offset_x="45"/>
+      <Pattern bullet="bullet_green" velocity="10" cooldown="5" duration="150" random_angle="360" offset_x="45"/>
     </Repeat>
 	</Type>
 </PatternsFile>

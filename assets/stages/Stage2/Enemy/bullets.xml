@@ -9,4 +9,24 @@
 			<Sprite path="kajira/4.png"/>
 		</OnHit>
 	</Bullet>
+	<Bullet name="red" damage="2">
+		<Sprite path="bullet_red.png"/>
+		<Hitbox x="-4" y="-2" width="8" height="4" angle="0"/>
+		<OnHit>
+			<Sprite path="kajira/1.png"/>
+			<Sprite path="kajira/2.png"/>
+			<Sprite path="kajira/3.png"/>
+			<Sprite path="kajira/4.png"/>
+		</OnHit>
+	</Bullet>
+	<Bullet name="yellow" damage="2">
+		<Sprite path="bullet_yellow.png"/>
+		<Hitbox x="-4" y="-2" width="8" height="4" angle="0"/>
+		<OnHit>
+			<Sprite path="kajira/1.png"/>
+			<Sprite path="kajira/2.png"/>
+			<Sprite path="kajira/3.png"/>
+			<Sprite path="kajira/4.png"/>
+		</OnHit>
+	</Bullet>
 </BulletsFile>

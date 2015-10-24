@@ -2,15 +2,44 @@
 	<Bounds x1="0" y1="0" x2="1366" y2="768"/>
 	<Misc velocity="10"/>
 	<BackLayer frame_duration="40" depth_effect_x="0" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
-		<frame image_path="StageCityBackground.png" width="1366" height="768"/>
+		<frame image_path="black.png" width="1366" height="768"/>
 	</BackLayer>
-	<BackLayer frame_duration="40" depth_effect_x="3" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
-		<frame image_path="StageCityBuildingsBack.png" width="1414" height="698"/>
+	<BackLayer frame_duration="40" depth_effect_x="30" depth_effect_y="0" align_x="1300" align_y="400" separation_x="1500">
+		<frame image_path="star.png" width="71" height="71"/>
 	</BackLayer>
-	<BackLayer frame_duration="40" depth_effect_x="2" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
-		<frame image_path="StageCityBuildingsMid.png" width="1318" height="515"/>
+	<BackLayer frame_duration="40" depth_effect_x="30" depth_effect_y="0" align_x="600" align_y="620" separation_x="1500">
+		<frame image_path="star2.png" width="71" height="71"/>
 	</BackLayer>
-	<BackLayer frame_duration="40" depth_effect_x="1" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
-		<frame image_path="StageCityBuildingsFront.png" width="1307" height="523"/>
+	<BackLayer frame_duration="40" depth_effect_x="6" depth_effect_y="0" align_x="400" align_y="-400" separation_x="1500">
+		<frame image_path="planet.png" width="667" height="667"/>
+	</BackLayer>
+	<BackLayer frame_duration="40" depth_effect_x="20" depth_effect_y="0" align_x="1000" align_y="500" separation_x="1500">
+		<frame image_path="planet2.png" width="240" height="240"/>
+	</BackLayer>
+<!--
+	<BackLayer frame_duration="40" depth_effect_x="0" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
+		<frame image_path="filter.png" width="1366" height="768"/>
+	</BackLayer>
+-->
+	<BackLayer frame_duration="40" depth_effect_x="-3" depth_effect_y="0" align_x="600" align_y="700" separation_x="1700">
+		<frame image_path="whoosh.png" width="220" height="5"/>
+	</BackLayer>
+	<BackLayer frame_duration="40" depth_effect_x="-4" depth_effect_y="0" align_x="100" align_y="300" separation_x="1000">
+		<frame image_path="whoosh.png" width="220" height="5"/>
+	</BackLayer>
+	<BackLayer frame_duration="40" depth_effect_x="-5" depth_effect_y="0" align_x="700" align_y="100" separation_x="1200">
+		<frame image_path="whoosh.png" width="220" height="5"/>
+	</BackLayer>
+	<BackLayer frame_duration="40" depth_effect_x="-6" depth_effect_y="0" align_x="300" align_y="600" separation_x="700">
+		<frame image_path="whoosh.png" width="220" height="5"/>
+	</BackLayer>
+	<BackLayer frame_duration="40" depth_effect_x="-7" depth_effect_y="0" align_x="300" align_y="300" separation_x="1500">
+		<frame image_path="whoosh.png" width="220" height="5"/>
+	</BackLayer>
+	<BackLayer frame_duration="40" depth_effect_x="-5" depth_effect_y="0" align_x="300" align_y="200" separation_x="800">
+		<frame image_path="whoosh.png" width="220" height="5"/>
+	</BackLayer>
+	<BackLayer frame_duration="40" depth_effect_x="-3" depth_effect_y="0" align_x="300" align_y="50" separation_x="1700">
+		<frame image_path="whoosh.png" width="220" height="5"/>
 	</BackLayer>
 </StageFile>

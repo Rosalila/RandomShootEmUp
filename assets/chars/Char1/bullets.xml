@@ -18,4 +18,12 @@
 		<Sprite path="lazor03.png"/>
 		<Hitbox x="-120" y="-10" width="240" height="20" angle="0"/>
 	</Bullet>	
+	<Bullet name="purple" damage="2" sound="lazor.ogg">
+		<Sprite path="purple.png"/>
+		<Hitbox x="-120" y="-10" width="240" height="20" angle="0"/>
+	</Bullet>	
+	<Bullet name="blue" damage="2" sound="lazor.ogg">
+		<Sprite path="blue.png"/>
+		<Hitbox x="-120" y="-10" width="240" height="20" angle="0"/>
+	</Bullet>	
 </BulletsFile>
